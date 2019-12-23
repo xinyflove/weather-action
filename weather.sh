@@ -3,6 +3,7 @@
 # 以调试的方式执行shell ，只识别定义过的变量，同时脚本传回值非0 直接结束shell
 set -eux
 
+# 城市
 CITY=Yantai
 LANGUAGE="zh-CN"
 UNIT=m
